@@ -172,9 +172,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 👨‍💻 Author
 
 **Vivek**
-- GitHub: [@Vivek9544](https://github.com/Vivek9544)
+- GitHub: [@HARSHATANAKALA](https://github.com/HARSHATANAKALA)
 
 ---
-<div align="center">
-  Made with ❤️ by Vivek
-</div>
+
