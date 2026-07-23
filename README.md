@@ -171,7 +171,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👨‍💻 Author
 
-**Vivek**
+**Harsha**
 - GitHub: [@HARSHATANAKALA](https://github.com/HARSHATANAKALA)
 
 ---
